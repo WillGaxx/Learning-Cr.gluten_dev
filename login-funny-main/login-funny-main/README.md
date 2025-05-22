@@ -35,7 +35,7 @@
     <div class="modal" id="successModal">
       <div class="modal-content">
         <span class="close" id="closeModal">&times;</span>
-        <h2>นั้นแน๊ เข้ามาในใจเเล้วไม่ให้ออกน้า</h2>
+        <h2>ฮ่าาาาานแน่ะ เข้ามาในใจเเล้วไม่ให้ออกน้า</h2>
         <img src="./sucecss.jpg" alt="Success Image" />
       </div>
     </div>
